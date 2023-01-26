@@ -57,6 +57,7 @@ contract ICO is Ownable {
         totalSupply = _totalSupply;
     }
 
+
     /** @notice this will store the total number of available public tokens & tokens reserved for founders
      **/
     uint256 publicTokens;
